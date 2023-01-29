@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding ig
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord ig..... user741#0914
+- 📫 How to reach me discord ig..... user0741#0914
 
 <!---
 user-741/user-741 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
